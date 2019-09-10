@@ -1,1 +1,1 @@
-# *This is a read me file for project 0x00.*
+# *This is the repository for the first project of Holberton School. It covers the topics of Vagrant, Emacs, vi, and Git.*
