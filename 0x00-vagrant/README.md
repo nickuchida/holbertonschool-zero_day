@@ -1,0 +1,1 @@
+# This directory contains a file naming the result printed by the uname command in Ubuntu VM.
