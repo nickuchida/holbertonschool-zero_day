@@ -1,0 +1,1 @@
+# *This project is about source code management, Git, and Github.*
